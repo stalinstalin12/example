@@ -1,0 +1,11 @@
+table,th,tr,td{
+    border:2px black solid;
+    border-collapse: collapse ;
+    border-width: 0.01cm;
+}
+th{
+    color: brown;
+}
+tr{
+    
+}
